@@ -1,0 +1,6 @@
+{
+  "name": "GipGup Shoes",
+  "description": "GipGup Shoes: Nepal's e-commerce footwear marketplace featuring trending sneakers, running shoes, formal leather, real photos, NPR prices, and eSewa payment integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
